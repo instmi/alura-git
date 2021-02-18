@@ -1,0 +1,35 @@
+[33mcommit d41fab6f913714a130722770369051d58801a8e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Milena <mlnd970@gmail.com>
+Date:   Fri Feb 12 18:35:10 2021 -0300
+
+    Renomeando curso de integração contínua
+
+[33mcommit 73fb4200f2420e146ebaed6ec1a926319fcf678f[m
+Author: Milena <mlnd970@gmail.com>
+Date:   Thu Feb 11 18:55:55 2021 -0300
+
+    Ignorando arquivo lembretes
+
+[33mcommit b5681613721313e3c0beb5b631cdedd57466ff58[m
+Author: Milena <mlnd970@gmail.com>
+Date:   Thu Feb 11 18:32:39 2021 -0300
+
+    Adicionando uma nova linha
+
+[33mcommit 036a4e94e54922987f8b028e58a5adb358abe8d9[m
+Author: Milena <mlnd970@gmail.com>
+Date:   Thu Feb 11 18:26:15 2021 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 6d90a73f45c5eaa15a3e5109c59b25dced3736d5[m
+Author: instmi <mlnd970@gmail.com>
+Date:   Thu Feb 11 18:01:57 2021 -0300
+
+    Acento adicionado no curso de integração contínua
+
+[33mcommit 1b97b0aab802db1ce29ead123ba8fe6c9a04d292[m
+Author: instmi <mlnd970@gmail.com>
+Date:   Thu Feb 11 17:59:46 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
